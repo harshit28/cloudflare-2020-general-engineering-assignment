@@ -1,0 +1,17 @@
+
+{
+    "private": true,
+    "name": "roshan-cloudflare-assignment",
+    "version": "1.0.0",
+    "description": "Assignment for Cloudflare Internship 2021.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "format": "prettier --write '**/*.{js,css,json,md}'"
+    },
+    "author": "Roshan Pawar <steradian614@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+      "prettier": "^1.18.2"
+    }
+  }
